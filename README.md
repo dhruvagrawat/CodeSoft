@@ -4,17 +4,17 @@
 
 ## Table of Contents
 
+**Portfolio**
+
+- [Task 1](https://github.com/dhruvagrawat/CODSOFT/tree/main/Portfolio)
+
 **Landing Page**
 
-- [Task 1](https://github.com/dhruvagrawat/CODSOFT/tree/main/LandingPage)
+- [Task 2](https://github.com/dhruvagrawat/CODSOFT/tree/main/LandingPage)
 
 **Calculator**
 
-- [Task 2](https://github.com/dhruvagrawat/CODSOFT/tree/main/Calculator)
-
-**Portfolio**
-
-- [Task 3](https://github.com/dhruvagrawat/CODSOFT/tree/main/Portfolio)
+- [Task 3](https://github.com/dhruvagrawat/CODSOFT/tree/main/Calculator)
 
 ---
 

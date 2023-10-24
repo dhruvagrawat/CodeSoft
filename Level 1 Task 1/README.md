@@ -1,12 +1,11 @@
-# Portfolio Website
+# Dhruv Agrawat's Portfolio Website
 
-This repository contains the code for a portfolio website that showcases various web design and development projects, provides pricing plans, displays customer testimonials, and includes a contact form for inquiries.
+This repository contains the code for Dhruv Agrawat's portfolio website, showcasing his expertise in software development and various projects. The website provides an overview of Dhruv's skills, professional experience, education, personal projects, and contact information.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [FAQs](#faqs)
@@ -15,43 +14,42 @@ This repository contains the code for a portfolio website that showcases various
 
 ## Introduction
 
-This portfolio website is designed to showcase the work and services of the website creator. It includes a visually appealing layout, sections for presenting past projects, customer reviews, pricing plans, and a contact form for potential clients to get in touch.
+Dhruv Agrawat's portfolio website is a platform to demonstrate his skills and experiences as a software developer. It includes detailed information about his technical skills, professional background, education, personal projects, and positions of responsibility.
 
 ## Features
 
-- **Portfolio Showcase**: The website features a portfolio section where various projects are displayed with images and links to more information.
+- **Skill Showcase**: The website highlights Dhruv's technical skills, including programming languages, frameworks, and tools.
 
-- **Customer Testimonials**: A testimonials section highlights positive feedback from satisfied customers.
+- **Professional Experience**: Dhruv's professional journey, including internships, projects, and responsibilities, is showcased in the experience section.
 
-- **Pricing Plans**: The pricing section presents different pricing plans, each with a list of features and associated costs.
+- **Education**: Details about Dhruv's educational background, including degrees, institutions, and achievements, are presented.
 
-- **FAQs**: The frequently asked questions section addresses common inquiries potential clients might have.
+- **Personal Projects**: Dhruv's personal projects, such as web applications and software tools, are described with features and technologies used.
 
-- **Contact Form**: A contact section provides contact information and a form for users to send messages directly.
+- **Positions of Responsibility**: Information about Dhruv's leadership roles in college clubs and events.
 
-## Usage
-
-To use this portfolio website, simply visit the live website hosted at [Raj's Portfolio Website](https://raj-portfolio-new.netlify.app/). Explore the portfolio, check the pricing plans, read customer testimonials, and use the contact form to get in touch.
+- **Contact Form**: A contact section provides multiple ways for visitors to get in touch with Dhruv, including email and phone.
 
 ## Technologies Used
 
-The following technologies were used to create this portfolio website:
+The portfolio website was developed using the following technologies:
 
 - HTML
-- CSS (Bootstrap for styling)
-- JavaScript (jQuery for interactions)
-- Various libraries for image sliders, popups, and smooth scrolling
+- CSS (with custom styles for a unique look)
+- JavaScript (for interactivity and animations)
+- Bootstrap (for responsive design and layout)
+- jQuery (for dynamic content and smooth scrolling)
 
 ## Installation
 
-As a user, you don't need to install anything to use the portfolio website. Just visit the live website link provided above.
+As a user, you don't need to install anything to explore Dhruv Agrawat's portfolio website. Simply visit the live website hosted at [Dhruv Agrawat's Portfolio](https://dhruvagrawat-portfolio.com/) to view the content.
 
 If you'd like to customize or modify the website for your own use:
 
 1. Clone the repository.
-2. Make changes to the HTML and CSS files to customize the content and appearance.
-3. Replace the project images in the portfolio section with your own projects.
-4. Host the website using a web hosting service of your choice.
+2. Make changes to the HTML, CSS, and JavaScript files to customize the content and appearance.
+3. Replace the project images and details in the personal projects section with your own projects.
+4. Host the modified website using a web hosting service of your choice.
 
 ## FAQs
 
@@ -59,20 +57,20 @@ If you'd like to customize or modify the website for your own use:
 
 Yes, the website is designed to be fully responsive, ensuring it looks great on various screen sizes and devices.
 
-### Can I use custom fonts on this website?
+### Can I customize the website's appearance?
 
-Absolutely! The website allows you to utilize custom fonts, enhancing the overall aesthetics and branding.
+Certainly! You can modify the CSS styles to customize the website's colors, typography, and layout to match your preferences or personal branding.
 
-### How do I get in touch for inquiries?
+### How do I get in touch with Dhruv Agrawat?
 
-You can use the contact form provided in the "Contact" section of the website to send us a message. Alternatively, you can reach out to us via email or phone using the contact information provided.
+You can use the contact form provided in the "Contact" section of the website to send a message to Dhruv Agrawat. Alternatively, you can reach out via email or phone using the contact information provided.
 
 ## Contact
 
-If you have any questions or need assistance, feel free to reach out:
+If you have any questions or need further assistance, feel free to reach out to Dhruv Agrawat:
 
-- Email: rj6207491172@gmail.com
-- Phone: +91 9117259523
+- Email: agrawatdhruv@gmail.com
+- Phone: (+91) 920-5252-966
 
 ## License
 

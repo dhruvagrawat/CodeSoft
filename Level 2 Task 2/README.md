@@ -10,10 +10,6 @@ Welcome to the Pet Adoption website! This website is dedicated to finding loving
 - [Adopt](#adopt)
 - [Contact](#contact)
 
-## Demo
-
-To see the website in action, you can visit the [Pet Adoption Demo](https://raj-pet-shop-landing-page.netlify.app/) here.
-
 ## Screenshots
 
 ![About Pets](./assets/img2.png)
@@ -39,12 +35,6 @@ Browse through our adorable pets waiting for a forever home. Each pet has a uniq
 ## Contact Us
 
 If you have any questions or want to know more about our adoption process, please feel free to get in touch with us. We are here to assist you and ensure a smooth adoption experience.
-
-## How to Run Locally
-
-1. Clone the repository: `git clone https://github.com/Rj1221/pet-adoption.git`
-2. Open the `index.html` file in your preferred web browser.
-3. Explore the website and find your perfect pet!
 
 ## Technologies Used
 
