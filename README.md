@@ -10,7 +10,7 @@
 
 **Landing Page**
 
-- [Task 2](https://github.com/dhruvagrawat/CODSOFT/tree/main/LandingPage)
+- [Task 2](https://main--silly-faloodeh-69e45c.netlify.app)
 
 **Calculator**
 
