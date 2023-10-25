@@ -6,7 +6,7 @@
 
 **Portfolio**
 
-- [Task 1]((https://main--keen-pixie-88c476.netlify.app/))
+- [Task 1]([https://main--keen-pixie-88c476.netlify.app/])
 
 **Landing Page**
 
